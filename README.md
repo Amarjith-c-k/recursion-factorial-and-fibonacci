@@ -1,2 +1,12 @@
-# recursion-factorial-and-fibonacci
+# Recursion-Factorial-and-Fibonacci
 This conatins function called c programme of factorial and Fibonacci series with using recursion and without using recursion function
+
+# factorial
+two files on factorial factorial.c without recursion
+                        factorilalr.c using recursion
+        Both are of functions
+ 
+ # Fibonacci
+two files on Fibonacci Fibonacci.c without recursion
+                        Fibonacci.c using recursion
+        Both areof functions
