@@ -3,6 +3,8 @@ This conatins function called c programme of factorial and Fibonacci series with
 
 # Notes
 notes of recursion are on the file notes.md
+# storage class
+pdf of named storage is uploaded for notes on storage class
 
 # factorial
 two files on factorial factorial.c without recursion
